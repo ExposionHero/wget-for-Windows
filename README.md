@@ -2,7 +2,7 @@
 
 ---
 
-## Instruction
+## Instructions
 
 > add .exe file to your PATH
 
